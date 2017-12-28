@@ -1,2 +1,4 @@
 # For large matrix files
 *.h5
+*.dat
+*.jpg
